@@ -15,7 +15,7 @@
     - Structure schemas
     -->
     <pma:structure_schemas>
-        <pma:database name="phonotes" collation="utf8mb4_0900_ai_ci" charset="utf8mb4">
+        <pma:database name="personalNotes" collation="utf8mb4_0900_ai_ci" charset="utf8mb4">
             <pma:table name="users">
                 CREATE TABLE `users` (
                   `id` int NOT NULL AUTO_INCREMENT,
