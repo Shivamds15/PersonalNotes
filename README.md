@@ -11,7 +11,14 @@ It is a simple and modern note-taking application built with PHP and MySQL. This
 
 ## Screenshots
 
-![Notes](notes.png)
+### Slider Images
+
+![Notes1](images/1.png)
+![Notes2](images/2.png)
+![Notes3](images/3.png)
+![Notes4](images/4.png)
+![Notes5](images/5.png)
+![Notes6](images/6.png)
 
 ## Installation
 
