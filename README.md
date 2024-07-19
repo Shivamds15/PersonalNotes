@@ -7,6 +7,7 @@ It is a simple and modern note-taking application built with PHP and MySQL. This
 - User Authentication (Registration, Login, Logout)
 - Create, Edit, and Delete Notes
 - User-specific Notes
+- Search Functionality for Notes
 - Modern and responsive design using Bootstrap
 
 ## Screenshots
